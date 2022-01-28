@@ -20,7 +20,7 @@ def load_model(file_name):
 
     return data
 
-data = load_model(file_name='Salary_Prediction_ML/preprocessor&model.pkl')
+data = load_model(file_name='preprocessor&model.pkl')
 
 regressor_model = data['model']
 preprocessor = data['column_transormer']
