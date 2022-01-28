@@ -7,7 +7,7 @@ def load_df(file_name):
     df = pd.read_csv(file_name)
     return df
 
-df = load_df(file_name='data_cleaned.csv')
+df = load_df(file_name='Salary_Prediction_ML/data_cleaned.csv')
 
 def show_explore_page():
     st.title(':bar_chart: Data Exploration from Stack Overflow: Annual Developer Survey 2021')
