@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import joblib # to load the ML model
+import pickle # to load the ML model
 import streamlit as st
 import plotly.express as px
 
@@ -16,7 +16,7 @@ df = load_df(file_name='data_cleaned.csv')
 @st.cache
 def load_model(file_name):
     with open(file_name , 'rb') as file:
-        data = joblib.load(file)
+        data = pickle.load(file)
 
     return data
 
