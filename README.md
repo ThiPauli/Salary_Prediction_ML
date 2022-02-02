@@ -1,4 +1,4 @@
-# Salary Prediction using Machine Learning Model
+# Salary Prediction using Machine Learning Regression
 
 ## Project Overview
 **Problem statement**: How much should I earn based on my experience? Despite the fact that salary may not always be the primary (nor even the secondary or tertiary) motivation for accepting a job offer or staying in a role.
