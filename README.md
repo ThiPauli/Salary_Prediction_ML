@@ -18,7 +18,7 @@
 
 ## Web App (streamlit)
 #### End-users are able to predict the output based on the features:
-- **Country of residence:**: United States of America, Germany, Canada, Brazil, and so on.
+- **Country of residence:** United States of America, Germany, Canada, Brazil, and so on.
 - **Profession (job type):** Developer, full-stack, Developer, front-end, Data scientist or machine learning specialist, and so on.
 - **Education Level:** Less than a Bachelor’s, Bachelor’s degree', Master’s degree or Postgraduate.
 - **Years of Experience:** How many years of experience.
