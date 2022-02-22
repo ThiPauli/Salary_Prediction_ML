@@ -1,7 +1,7 @@
 # Salary Prediction using Machine Learning Regression
 
 ## Project Overview
-**Problem statement**: How much should I earn based on my experience? Despite the fact that salary may not always be the primary (nor even the secondary or tertiary) motivation for accepting a job offer or staying in a role.
+How much should I earn based on my experience? Despite the fact that salary may not always be the primary (nor even the secondary or tertiary) motivation for accepting a job offer or staying in a role.
 - Predict a continuous dependent variable from a number of independent variables using a regression model. The dataset was taken from [Stack Overflow Annual Developer Survey 2021](https://insights.stackoverflow.com/survey)
 - Data transformation and machine learning to create a model that predicts a salary based on: country of residence, profession (job type), education level and years of experience. Access the full Python code [here](https://github.com/ThiPauli/Salary_Prediction_ML/blob/main/salary_prediction_regression_ML.ipynb).
 - Create a User Interface (Web App) using streamlit and deploying it, which the end-users can input data and then get the predicted salary as the output. Acess the web app [here](https://share.streamlit.io/thipauli/salary_prediction_ml/main/app.py).
