@@ -1,4 +1,4 @@
-# Salary Tech Jobs Prediction using Machine Learning Regression
+# Salary Prediction in Tech Jobs using Machine Learning Regression
 
 ## Project Overview
 How much should someone earn based on level education and experience? Despite the fact that salary may not always be the primary (nor even the secondary or tertiary) motivation for accepting a job offer or staying in a role.
